@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Instgran</string>
+    <string name="logo">logo</string>
+    <string name="from">from</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="Emaill_address">Email Address</string>
+    <string name="next">SIGN UP</string>
+    <string name="enter_a_10_digit_phone_number_starting_with_the_country_number">Enter a 10-digit phone number starting with the country number</string>
+    <string name="enter_your_email_address_gmail">Enter your Email Address </string>
+    <string name="user_name">User Name</string>
+
+
+    <string name="select_image">SELECT IMAGE</string>
+    <string name="upload_image">UPLOAD IMAGE</string>
+    <string name="user_name_1">user name 1</string>
+    <string name="post">POST</string>
+    <string name="what_do_you_think_now">What do you think now?</string>
+    <string name="log_out">Log Out</string>
+    <string name="logout">LogOut</string>
+    <string name="_10">10</string>
+    <string name="comments" >comments</string>
+    <string name="like">Like</string>
+    <string name="comments_bt">Comments</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sing_up">Sing up</string>
+    <string name="select_image_for_profile">Select Image For Profile</string>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381763900335",
+    "project_id": "instagran-2733c",
+    "storage_bucket": "instagran-2733c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381763900335:android:3cd8b9d85a9be34476d55a",
+        "android_client_info": {
+          "package_name": "com.example.instgran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381763900335-tuppmgf9e7nb0hr61g78710c8kvp82d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsX77B3Ot8WHr1Iv7zir0xN8lFN4gRVnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381763900335-tuppmgf9e7nb0hr61g78710c8kvp82d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
